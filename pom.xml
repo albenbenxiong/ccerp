@@ -10,7 +10,7 @@
 	<artifactId>ccerp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<ccerp.spring.version>4.3.18.RELEASE</ccerp.spring.version>
+		<ccerp.spring.version>5.3.19</ccerp.spring.version>
 		<!-- environment setting -->
 		<tomcat.version>2.2</tomcat.version>
 		<webserver.port>8181</webserver.port>
